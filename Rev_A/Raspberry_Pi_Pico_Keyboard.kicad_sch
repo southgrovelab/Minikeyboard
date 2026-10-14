@@ -5,7 +5,7 @@
 	(uuid "bf905e83-1ccf-48f0-98c4-23e6df1a14e0")
 	(paper "A4")
 	(title_block
-		(title "Raspberry_Pi_Picp_Keyboard")
+		(title "Raspberry_Pi_Pico_Keyboard")
 		(date "2026-08-25")
 		(rev "Rev. A")
 	)
